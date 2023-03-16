@@ -1,2 +1,3 @@
-# alx-low_level_programming
-Beginners course to C programming
+# ALX Low-level Programming
+An awesome journey to a beginner's way of learning C programming!!!
+
